@@ -6,9 +6,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/shivam101x/count.svg?"  />
-</div>
+<p align="center">From daylight code crafting to moonlit market analysis and midnight gaming sessions, I navigate the realms of full stack Java development, trading strategies, and virtual adventures. Embracing the complexities of software architecture, financial analysis, and digital conquests, let's embark on a journey where code meets trade meets play, charting our course to success!</p>
 
 ###
 
@@ -32,15 +30,11 @@
 
 ###
 
-<img align="right" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+<img align="right" src="https://profile-counter.glitch.me/shivam101x/count.svg?"  />
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/fam.malvade">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fam.malvade&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="left" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 ###
 
@@ -114,6 +108,7 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vxk53zqzok7py6pj2nf77pfeta)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vxk53zqzok7py6pj2nf77pfeta&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vxk53zqzok7py6pj2nf77pfeta&width={width})
+
+<p align="left">Full stack Java developer by day, trading strategies after hours, and gaming for relaxation. Embracing the challenges of software architecture, market analysis, and virtual adventures. Let's code, trade, and play our way to success!</p>
+
+###
