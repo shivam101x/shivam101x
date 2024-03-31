@@ -23,7 +23,7 @@ I'm a passionate Full Stack Java Developer with expertise in crafting robust and
 ![Git](https://img.icons8.com/color/48/000000/git.png) **Git** | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS (Amazon Web Services)** | ![Jenkins CI/CD](https://img.icons8.com/color/48/000000/jenkins.png) **Jenkins CI/CD** | ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker** | ![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png) **Selenium** | ![Jira](https://img.icons8.com/color/48/000000/jira.png) **Jira**
 
 ## Social Profiles:
-![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/shivam-malvade-101x/) | ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) [Twitter](https://twitter.com/Shivam101x) | ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png) [Instagram](https://www.instagram.com/shivam_101x) | ![Email](https://img.icons8.com/color/48/000000/gmail.png) Email: malvadeshivam@gmail.com
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shivam-malvade-101x/) | [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Shivam101x) | [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/shivam_101x) | ![Email](https://img.icons8.com/color/48/000000/gmail.png) Email: malvadeshivam@gmail.com
 
 ## GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam101x&show_icons=true)
