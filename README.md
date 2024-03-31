@@ -30,9 +30,11 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" src="https://profile-counter.glitch.me/shivam101x/count.svg?"  />
+
+###
+
+<img align="left" height="150" src="https://media1.tenor.com/m/8Hq4WY2CxBsAAAAd/hacker-man.gif"  />
 
 ###
 
@@ -111,6 +113,8 @@
 
 ###
 
-<p align="left">Full stack Java developer by day, trading strategies after hours, and gaming for relaxation. Embracing the challenges of software architecture, market analysis, and virtual adventures. Let's code, trade, and play our way to success!</p>
+<div align="center">
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vxk53zqzok7py6pj2nf77pfeta&unique={true|1|on|yes})?" alt="Widget with the current Spotify song"  />
+</div>
 
 ###
