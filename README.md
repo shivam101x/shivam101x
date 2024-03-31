@@ -30,11 +30,13 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" src="https://profile-counter.glitch.me/shivam101x/count.svg?"  />
 
 ###
 
-<img align="left" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+<img align="right" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 ###
 
