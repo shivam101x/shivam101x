@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">💯Proficient in both front-end and back-end technologies, 👨🏻‍💻<br>with expertise in DevOps practices for seamless integration and deployment🚀</h3>
+<h3 align="center">💯Proficient in both front-end and back-end technologies, 👨🏻‍💻<br>with expertise in DevOps practices for seamless integration and deployment🚀</h3>
 
 ###
 
