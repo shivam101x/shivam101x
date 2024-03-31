@@ -1,6 +1,10 @@
-![Hacker Man](https://media.tenor.com/8Hq4WY2CxBsAAAAM/hacker-man.gif)  
-
-# Hi there, I'm [SHIVAM M]! 👋
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://media.tenor.com/8Hq4WY2CxBsAAAAM/hacker-man.gif" alt="Hacker Man" width="200" />
+  </div>
+  <div style="flex: 2;">
+  
+# Hi there, I'm SHIVAM M! 👋
 
 I'm a passionate Full Stack Java Developer with expertise in crafting robust and scalable web applications. Constantly exploring new technologies and striving for excellence in software development. Here's a glimpse of my skills and experience:
 
@@ -28,3 +32,6 @@ I'm a passionate Full Stack Java Developer with expertise in crafting robust and
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shivam101x.shivam101x)
 
 Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-malvade-101x/)! Let's collaborate and build amazing things together.
+
+  </div>
+</div>
