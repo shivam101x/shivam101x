@@ -30,21 +30,29 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/shivam101x/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shivam101x/count.svg?"  />
+</div>
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/8Hq4WY2CxBsAAAAd/hacker-man.gif"  />
+<div align="center">
+  <img height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+</div>
 
 ###
 
-<img align="right" height="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+<h3 align="left">💯Proficient in both front-end and back-end technologies, 👨🏻‍💻<br>with expertise in DevOps practices for seamless integration and deployment🚀</h3>
+
+###
+
+<h2 align="center">👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
