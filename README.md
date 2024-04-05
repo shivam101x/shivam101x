@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="center">💯Proficient in both front-end and back-end technologies, 👨🏻‍💻<br>with expertise in DevOps practices for seamless integration and deployment🚀</h3>
+<h2 align="center">💯Proficient in both front-end and back-end technologies, 👨🏻‍💻<br>with expertise in DevOps practices for seamless integration and deployment🚀</h2>
 
 ###
 
@@ -113,10 +113,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam101x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shivam101x&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam101x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam101x&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam101x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=merko&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=shivam101x&locale=en&mode=daily&theme=cobalt2&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam101x&radius=16&theme=merko&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
