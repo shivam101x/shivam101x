@@ -30,8 +30,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/shivam101x/count.svg?"  />
 </div>
@@ -44,91 +42,83 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">💯Proficient in both front-end and back-end technologies, 👨🏻‍💻<br>with expertise in DevOps practices for seamless integration and deployment🚀</h2>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻</h2>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="50" alt="jquery logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="50" alt="materialui logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="hibernate logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="nginx logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="50" alt="tomcat logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="50" alt="selenium logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="50" alt="jira logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="eclipseide logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" alt="canva logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="50" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="55" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="55" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="55" alt="jquery logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="55" alt="bootstrap logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" alt="tailwindcss logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="55" alt="react logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="55" alt="materialui logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="55" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="55" alt="mongodb logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="java logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="55" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="55" alt="git logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="55" alt="spring logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="55" alt="hibernate logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="55" alt="terraform logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="55" alt="ubuntu logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="55" alt="jenkins logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="55" alt="nginx logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="55" alt="tomcat logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="55" alt="selenium logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="55" alt="jira logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="55" alt="eclipseide logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="55" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="55" alt="androidstudio logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="55" alt="canva logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="55" alt="photoshop logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam101x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=moltack&hide_border=false&order=2" height="300" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shivam101x&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam101x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=vision-friendly-dark&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=shivam101x&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam101x&radius=16&theme=merko&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
