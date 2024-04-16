@@ -20,7 +20,7 @@
   <a href="https://x.com/Shivam101x?t=FLuvEDnqjjYgAX7D3_AVkQ&s=08" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/shivam_101x" target="_blank">
+  <a href="https://www.instagram.com/commoncomputer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/shivam.malvade.779" target="_blank">
